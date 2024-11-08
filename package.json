@@ -1,0 +1,20 @@
+{
+  "name": "homebridge-udpfan",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "udp fan homebridge",
+  "keywords": [
+    "homebridge-plugin",
+    "homebridge-udpfan"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pponce/homebridge-script2.git"
+  },
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+  }
+}
