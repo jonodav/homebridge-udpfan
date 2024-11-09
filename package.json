@@ -15,6 +15,13 @@
     "homebridge": ">=0.2.0",
     "node": ">=6.0.0"
   },
-  "dependencies": {
-  }
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/jonodav/homebridge-udpfan/issues"
+  },
+  "homepage": "https://github.com/jonodav/homebridge-udpfan#readme"
 }
