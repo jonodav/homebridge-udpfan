@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/pponce/homebridge-script2.git"
+    "url": "git://github.com/jonodav/homebridge-udpfan.git"
   },
   "engines": {
     "homebridge": ">=0.2.0",
