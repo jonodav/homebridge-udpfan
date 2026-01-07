@@ -1,6 +1,6 @@
 {
   "name": "homebridge-udpfan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "udp fan homebridge",
   "keywords": [
